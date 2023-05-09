@@ -34,5 +34,7 @@
 
 |Title | Stars | Technologies|
 |--|--|--|
+| [Diplomado Python](https://github.com/brayamrt/DiplomadoPython) | <img alt="Stars" src="https://img.shields.io/github/stars/brayamrt/DiplomadoPython?style=flat-square&labelColor=black"/> | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-black?style=flat-square&logo=jupyter&logoColor=white)  ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy&logoColor=white) |
+
      
 </td></tr> </table>
