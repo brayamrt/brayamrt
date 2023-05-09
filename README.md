@@ -20,9 +20,19 @@
 
 * 📖 Buscando ser desarrollador Full Stacks.
 
-* 🎓 Realización de Diplomado de Machine Learning con Python.
+* 🎓 Realización de Diplomado de Machine Learning con Python @ [Corporación Universitaria del Huila](https://corhuila.edu.co). 
 
 * 💡 Abierto a colaborar en proyectos e ideas innovadoras.
 
 * 💻 Actualmente trabajando en proyectos colaborativos.
 
+
+### 🖥️ Open-Source Projects
+<table>
+<tr><th>Machine Learning </th>
+<tr><td>
+
+|Title | Stars | Technologies|
+|--|--|--|
+     
+</td></tr> </table>
