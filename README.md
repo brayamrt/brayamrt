@@ -17,3 +17,11 @@
 </a>
 
 </p>
+* 📖 Buscando un ser desarrollador Full Stacks.
+
+* 🎓 Realización de Diplomado de Machine Learning con Python.
+
+* 💡 Abierto a colaborar en proyectos e ideas innovadoras.
+
+* 💻 Actualmente trabajando en proyectos colaborativos.
+
