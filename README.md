@@ -39,6 +39,7 @@
      
 </td></tr> </table>
 
+<details>
 <summary>📈 Stats</summary>
 <br>
 My Github Stats
@@ -47,3 +48,5 @@ My Github Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brayamrt&theme=dracula) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brayamrt&theme=dracula)
+</details>
+
