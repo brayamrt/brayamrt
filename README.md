@@ -18,9 +18,9 @@
 
 </p>
 
-* 📖 Buscando ser desarrollador Full Stacks.
+* 📖 Buscando ser desarrollador **Full Stacks** | **Cientifico de Datos.**
 
-* 🎓 Realización de Diplomado de Machine Learning con Python @ [Corporación Universitaria del Huila](https://corhuila.edu.co). 
+* 🎓 Realización de Diplomado de **Machine Learning con Python** @ [Corporación Universitaria del Huila](https://corhuila.edu.co). 
 
 * 💡 Abierto a colaborar en proyectos e ideas innovadoras.
 
