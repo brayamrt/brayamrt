@@ -24,7 +24,7 @@
 
 * 💡 Abierto a colaborar en proyectos e ideas innovadoras.
 
-* 💻 Actualmente trabajando en proyectos colaborativos.
+* 💻 Actualmente trabajando en soporte tecnico.
 
 
 ### 🖥️ Open-Source Projects
