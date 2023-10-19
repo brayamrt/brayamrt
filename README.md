@@ -1,52 +1,28 @@
-<p align="center">
-<a href="https://github.com/brayamrt">
-     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Brayam+David+Ricardo;Systems+Engineer;Back-end+Dev" alt="Typing SVG" />
-</a>
-<br/>
+<h1>Hello! I'm Brayam Ricardo <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
+<h2>Full Stacks Developer 🤯 </h2>
 
-<a href="https://www.linkedin.com/in/brayam-ricardo/">
-    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
-</a>
-<a href="mailto:bdricardo71@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
-</a>
+### About Me
+- I am 24 years old and I am from Neiva, Colombia.
+- I am a MERN and PERN full stack developer.
+- I am a self-taught and highly creative individual who seeks to learn and improve every day.
+- I enjoy working as a full stack developer because it allows me to provide a comprehensive experience to the users who visit my projects.
 
-<br/> 
-<a href="https://github.com/brayamrt">
-    <img src="https://github-stats-alpha.vercel.app/api?username=brayamrt&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
-</a>
+### Technologies
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
 
-</p>
+### Contact Me
+<a href="https://www.linkedin.com/in/brayam-ricardo/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Brayam%20Ricardo-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://portafolio-eight-psi.vercel.app/"><img alt="Sitio Web" src="https://img.shields.io/badge/🔗-Sitio%20Web-blue?style=flat-square"></a>
+<a href="bdricardo71@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-bdricardo71@gmail.com-blue?style=flat-square&logo=gmail"></a>  
 
-* 📖 Buscando ser desarrollador **Full Stacks** | **Cientifico de Datos.**
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brayamrt&show_icons=true&locale=en&layout=compact" alt="brayamrt" /></p>
 
-* 🎓 Realización de Diplomado de **Machine Learning con Python** @ [Corporación Universitaria del Huila](https://corhuila.edu.co). 
-
-* 💡 Abierto a colaborar en proyectos e ideas innovadoras.
-
-* 💻 Actualmente trabajando en soporte tecnico.
-
-
-### 🖥️ Open-Source Projects
-<table>
-<tr><th>Machine Learning </th>
-<tr><td>
-
-|Title | Stars | Technologies|
-|--|--|--|
-| [Diplomado Python](https://github.com/brayamrt/DiplomadoPython) | <img alt="Stars" src="https://img.shields.io/github/stars/brayamrt/DiplomadoPython?style=flat-square&labelColor=black"/> | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-black?style=flat-square&logo=jupyter&logoColor=white)  ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy&logoColor=white) |
-
-     
-</td></tr> </table>
-
-<details>
-<summary>📈 Stats</summary>
-<br>
-My Github Stats
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brayamrt&theme=dracula) 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brayamrt&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brayamrt&theme=dracula)
-</details>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brayamrt&show_icons=true&locale=en" alt="brayamrt" /></p>
 
