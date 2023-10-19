@@ -20,7 +20,7 @@
 ### Contact Me
 <a href="https://www.linkedin.com/in/brayam-ricardo/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Brayam%20Ricardo-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://portafolio-eight-psi.vercel.app/"><img alt="Sitio Web" src="https://img.shields.io/badge/🔗-Sitio%20Web-blue?style=flat-square"></a>
-<a href="bdricardo71@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-bdricardo71@gmail.com-blue?style=flat-square&logo=gmail"></a>  
+<a href="mailto:bdricardo71@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-bdricardo71@gmail.com-blue?style=flat-square&logo=gmail"></a>  
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brayamrt&show_icons=true&locale=en&layout=compact" alt="brayamrt" style="height: 170px;" /></p>
 
