@@ -26,3 +26,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brayamrt&show_icons=true&locale=en" alt="brayamrt" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=brayamrt&label=Profile%20views&color=0e75b6&style=flat" alt="brayamrt" /> </p>
+
