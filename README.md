@@ -22,9 +22,9 @@
 <a href="https://portafolio-eight-psi.vercel.app/"><img alt="Sitio Web" src="https://img.shields.io/badge/🔗-Sitio%20Web-blue?style=flat-square"></a>
 <a href="bdricardo71@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-bdricardo71@gmail.com-blue?style=flat-square&logo=gmail"></a>  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brayamrt&show_icons=true&locale=en&layout=compact" alt="brayamrt" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brayamrt&show_icons=true&locale=en&layout=compact" alt="brayamrt" style="height: 170px;" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brayamrt&show_icons=true&locale=en" alt="brayamrt" /></p>
+<p><img align="middle" src="https://github-readme-stats.vercel.app/api?username=brayamrt&show_icons=true&locale=en" alt="brayamrt" style="height: 170px;" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brayamrt&label=Profile%20views&color=0e75b6&style=flat" alt="brayamrt" /> </p>
 
